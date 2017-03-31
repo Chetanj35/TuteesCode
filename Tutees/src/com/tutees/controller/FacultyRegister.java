@@ -22,7 +22,6 @@ public class FacultyRegister extends HttpServlet {
       
     }
 
-	//hello
 	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
 	{
